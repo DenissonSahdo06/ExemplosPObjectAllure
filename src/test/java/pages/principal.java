@@ -118,7 +118,7 @@ public class principal extends BasePage {
         navegador.findElement(By.linkText("Scroll")).click();
         return this;
     }
-    // inserir comentario
+    // inserir comentario alterandop para verificar
     public principal SelecionarOutrosUp() {
         navegador.findElement(By.linkText("Outros")).click();
         navegador.findElement(By.linkText("Upload de Arquivo")).click();
