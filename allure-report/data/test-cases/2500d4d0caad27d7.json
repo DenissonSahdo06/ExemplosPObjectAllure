@@ -1,0 +1,119 @@
+{
+  "uid" : "2500d4d0caad27d7",
+  "name" : "Selecionar Outros",
+  "fullName" : "tests.testeAdicionar.testSelecionarOutros",
+  "historyId" : "71c743af179be2bcf8e8a727e589da80",
+  "time" : {
+    "start" : 1633530899869,
+    "stop" : 1633530900447,
+    "duration" : 578
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1633530872266,
+      "stop" : 1633530888474,
+      "duration" : 16208
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "47b397ef1e52ce14",
+      "name" : "saveSucceessScreenShot",
+      "source" : "47b397ef1e52ce14.png",
+      "type" : "image/png",
+      "size" : 41202
+    }, {
+      "uid" : "b822f0af031763f6",
+      "name" : "testSelecionarOutros succeed and screenshot taken!",
+      "source" : "b822f0af031763f6.txt",
+      "type" : "text/plain",
+      "size" : 50
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1633530903239,
+      "stop" : 1633530903240,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.testeAdicionar"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.testeAdicionar"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSelecionarOutros"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "br.com.DragDrop"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.testeAdicionar"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-106ISDL"
+  }, {
+    "name" : "thread",
+    "value" : "11064@DESKTOP-106ISDL.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Feature: Navegação "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2500d4d0caad27d7.json",
+  "parameterValues" : [ ]
+}

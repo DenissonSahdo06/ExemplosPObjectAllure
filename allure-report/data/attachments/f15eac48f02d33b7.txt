@@ -1,0 +1,1 @@
+testSelecionarNovo succeed and screenshot taken!

@@ -1,0 +1,1 @@
+testSelecionarOutros succeed and screenshot taken!

@@ -1,0 +1,1 @@
+testSelecionarWidget succeed and screenshot taken!

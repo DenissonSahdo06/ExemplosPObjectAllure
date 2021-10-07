@@ -1,0 +1,1 @@
+testSelecionarIteracoes succeed and screenshot taken!

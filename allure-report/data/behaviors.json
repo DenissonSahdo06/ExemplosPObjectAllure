@@ -1,0 +1,130 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Feature: Adicionar Usuario ",
+    "children" : [ {
+      "name" : "Adicionar",
+      "uid" : "9931c294069500dd",
+      "parentUid" : "e9d2a8f9aac0e4fff39075765b78167d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530888782,
+        "stop" : 1633530894088,
+        "duration" : 5306
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e9d2a8f9aac0e4fff39075765b78167d"
+  }, {
+    "name" : "Feature: Navegação ",
+    "children" : [ {
+      "name" : "Listar Usuarios",
+      "uid" : "763ed381c4bb841f",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530894344,
+        "stop" : 1633530896855,
+        "duration" : 2511
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Navegar entre Selecionar Formulario",
+      "uid" : "2ff7ebac32df8beb",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530896878,
+        "stop" : 1633530898098,
+        "duration" : 1220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Selecionar Iterações",
+      "uid" : "35719a47934873c3",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530898118,
+        "stop" : 1633530898818,
+        "duration" : 700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Mudança de Foco",
+      "uid" : "6031aa9b3b1867fd",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530898824,
+        "stop" : 1633530899353,
+        "duration" : 529
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Buscar Elementos",
+      "uid" : "9b7ee99816aa4217",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530899356,
+        "stop" : 1633530899862,
+        "duration" : 506
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Selecionar Outros",
+      "uid" : "2500d4d0caad27d7",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530899869,
+        "stop" : 1633530900447,
+        "duration" : 578
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Selecionar Widget",
+      "uid" : "d88ce5fbd2d21067",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530900455,
+        "stop" : 1633530900898,
+        "duration" : 443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Navegar entre Paginas",
+      "uid" : "47d5787b7b6d7c0b",
+      "parentUid" : "d8ada91617b93aedc686497b9c1f76d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530900905,
+        "stop" : 1633530903233,
+        "duration" : 2328
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d8ada91617b93aedc686497b9c1f76d1"
+  } ]
+}

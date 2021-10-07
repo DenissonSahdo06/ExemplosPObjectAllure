@@ -1,0 +1,119 @@
+{
+  "uid" : "9b7ee99816aa4217",
+  "name" : "Buscar Elementos",
+  "fullName" : "tests.testeAdicionar.testSelecionarNovo",
+  "historyId" : "358ae993462d517d49f19973767ec0d5",
+  "time" : {
+    "start" : 1633530899356,
+    "stop" : 1633530899862,
+    "duration" : 506
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1633530872266,
+      "stop" : 1633530888474,
+      "duration" : 16208
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b495fbe354ef8d6c",
+      "name" : "saveSucceessScreenShot",
+      "source" : "b495fbe354ef8d6c.png",
+      "type" : "image/png",
+      "size" : 42983
+    }, {
+      "uid" : "f15eac48f02d33b7",
+      "name" : "testSelecionarNovo succeed and screenshot taken!",
+      "source" : "f15eac48f02d33b7.txt",
+      "type" : "text/plain",
+      "size" : 48
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1633530903239,
+      "stop" : 1633530903240,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.testeAdicionar"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.testeAdicionar"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSelecionarNovo"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "br.com.DragDrop"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.testeAdicionar"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-106ISDL"
+  }, {
+    "name" : "thread",
+    "value" : "11064@DESKTOP-106ISDL.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Feature: Navegação "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b7ee99816aa4217.json",
+  "parameterValues" : [ ]
+}
